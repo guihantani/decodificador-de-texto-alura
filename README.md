@@ -12,3 +12,5 @@ A letra "a" é convertida para "ai"
 A letra "o" é convertida para "ober"
 A letra "u" é convertida para "ufat"
 ```
+## 🔗 Github Pages
+O projeto pode ser acessado através do seguinte link: https://guihantani.github.io/decodificador-de-texto-alura/
